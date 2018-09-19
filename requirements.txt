@@ -52,3 +52,10 @@ six == 1.11.0
 # tf_retrainable/scripts/quantize_graph.py: 35,36,37,38,39,40,41,42,43,44,45,46,47,48,49
 # tf_retrainable/scripts/retrain.py: 109,111,112,113,114
 tensorflow == 1.8.0
+
+urllib3
+
+# object detection dependencies
+Cython
+contextlib2
+lxml

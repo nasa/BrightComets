@@ -1,0 +1,8 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+image
+circle(52.999905,37.00069,6.6799562)
+ellipse(54.99921,63.000166,17.000005,31.000081,359.99961)
+# vector(52.999955,34.999437,149.77643,81.166615) vector=1
+# vector(52.0004,37.000729,125.39929,113.49861) vector=1
+# size: 508

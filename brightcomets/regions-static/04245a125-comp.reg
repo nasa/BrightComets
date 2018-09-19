@@ -1,0 +1,13 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+image
+box(189.79997,309.80002,72.000029,55.200022,0)
+box(144.79996,405.80006,15.600006,14.400006,0) # color=white
+box(294.20001,106.99994,14.400006,12.000005,0) # color=white
+box(186.19997,121.39995,26.400011,19.200008,0) # color=white
+box(164.59996,224.59999,14.400006,12.000005,0) # color=white
+box(494.6001,251.6,12.000005,13.200005,0) # color=white
+box(338.00003,320.60003,10.800004,9.6000038,0) # color=white
+box(404.00006,12.799902,8.4000034,13.200005,0) # color=white
+box(100.39994,20.599905,18.000007,14.400006,0) # color=white
+# size: 512

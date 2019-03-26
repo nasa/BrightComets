@@ -33,7 +33,7 @@ If you ever want to delete your virtual environment:
 In a terminal window:
 **WARNING: MAKE SURE YOUR PATH HAS NO SPACES OR SPECIAL CHARACTERS**
 ::
-    git clone https://github.com/joemasiero/BrightComets
+    git clone https://github.com/nasa/BrightComets
     pip install -e BrightComets
 
 Detection
